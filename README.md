@@ -4,3 +4,9 @@ A **Convolutional Neural Network (CNN)** is a type of deep learning model partic
 
 ## Project Overview 
 This is a beginner project involving digit recognition using a Convolutional Neural Network (CNN) model trained on the **MNIST** dataset. It includes data loading, model training, evaluation, and image prediction on a single digit image.
+
+## Code
+
+- **Notebook**; https://github.com/SHIVOGOJOHN/Convolutional-Neural-Networks/blob/main/Digits_Recognition%20(1).ipynb
+- **.py**; https://github.com/SHIVOGOJOHN/Convolutional-Neural-Networks/blob/main/digits_recognition%20(1).py
+- **image**; https://github.com/SHIVOGOJOHN/Convolutional-Neural-Networks/blob/main/image3.png
