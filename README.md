@@ -7,6 +7,6 @@ This is a beginner project involving digit recognition using a Convolutional Neu
 
 ## 💡 Code
 
-- **Notebook**; https://github.com/SHIVOGOJOHN/Convolutional-Neural-Networks/blob/main/Digits_Recognition%20(1).ipynb
-- **.py**; https://github.com/SHIVOGOJOHN/Convolutional-Neural-Networks/blob/main/digits_recognition%20(1).py
-- **image**; https://github.com/SHIVOGOJOHN/Convolutional-Neural-Networks/blob/main/image3.png
+- **Notebook**; [jupyter notebook](https://github.com/SHIVOGOJOHN/Convolutional-Neural-Networks/blob/main/Digits_Recognition%20(1).ipynb)
+- **.py code**; [python code](https://github.com/SHIVOGOJOHN/Convolutional-Neural-Networks/blob/main/digits_recognition%20(1).py)
+- **image**; [Image](https://github.com/SHIVOGOJOHN/Convolutional-Neural-Networks/blob/main/image3.png)
